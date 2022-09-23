@@ -7,4 +7,4 @@ Running with a a .pcap file will create three files: summary.txt, report.txt, an
 The folder must also contain GeoLiteCity.dat. Credit to the creator: https://github.com/mbcc2006/GeoLiteCity-data
 
 With a shebang in the Pyshark.py:
-./Pyshark.py <instert packet capture file>
+./Pyshark.py <insert packet capture file>
